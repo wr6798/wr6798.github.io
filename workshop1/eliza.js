@@ -29,14 +29,14 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "What do you think about milksteak?"
   ],
-  "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
+  "~*x think ~*y": [
+    "Put milksteak. She'll know what it is.",
+    "Alright well I'm gonna check it out anyway, there could be something delicious in here that wasps do make and I want that.",
+    "Argh! I'm trying to smoke these hornets to death so I can get their honey, but they keep flying up the tube, stinging me on my face and I think I just swallowed one.",
+    "I just don't think there's any science to support that, buddy.",
+    "Little green ghouls buddies!",
     "What do you think about computers?",
     "What do you think machines have to do with your problem?",
   ],
