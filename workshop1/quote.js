@@ -5,7 +5,7 @@
  */
 
 var things = ["Cooking", "Eating", "Milk", "Steak", "Dining", "Food"];
-var programmers = ["janitor", "milksteak expert", "on milksteak", "janitor", "milksteak expert", "on milksteak"]
+var programmers = ["janitor", "milksteak expert", "milksteak expert", "janitor", "milksteak expert", "janitor"]
 var castles = ["restaurants", "kitchens", "pans"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
