@@ -4,9 +4,9 @@
  * L&T quote generator
  */
 
-var things = ["Music", "Art", "Dance", "Theater", "Math", "Architecture"];
-var programmers = ["musician", "artist", "choreographer", "director", "mathematician", "architect"]
-var castles = ["museums", "bridges", "cities"]
+var things = ["Cooking", "Eating", "Milk", "Steak", "Dining", "Food"];
+var programmers = ["janitor", "milksteak expert", "on milksteak", "janitor", "milksteak expert", "on milksteak"]
+var castles = ["restaurants", "kitchens", "pans"]
 var exertions = ["effort", "strain", "struggle", "toil", "endeavor", "hard work", "labor"];
 var airs = ["sky", "atmosphere", "heavens", "ether", "wind"];
 
@@ -35,7 +35,7 @@ q.innerHTML =
     "\"The " + programmer +
     ", like the poet, works only slightly removed from pure thought-stuff. He builds his " +
     castles + " in the " + air + ", from " + air + ", creating by " + exertion + " of the imagination.\"" +
-    "\u2014" +  "Fred Brooks, " + programmer;
+    "\u2014" +  "Charlie Kelly, " + programmer;
 
 q.innerHTML += "<br><br><br>";
 
